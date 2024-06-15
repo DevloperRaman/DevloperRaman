@@ -10,6 +10,7 @@
  •javascript 
  •C language 
  •C++
-
+ •Bootstrep
+  •Tailwend css
  😊I believe in study by failure 
  😊I want to achieve my Dream 
