@@ -12,5 +12,10 @@
  •C++
  •Bootstrep
   •Tailwend css
+  *this things curently i am studing *
+  •java
+  •sprinboot
+  •DSA in java
+  
  😊I believe in study by failure 
  😊I want to achieve my Dream 
