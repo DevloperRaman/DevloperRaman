@@ -12,7 +12,7 @@
  •C++
  •Bootstrep
   •Tailwend css
-  *this things curently i am studing *
+ Curent status :*this things curently i am studing *
   •java
   •sprinboot
   •DSA in java
