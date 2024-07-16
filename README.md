@@ -7,12 +7,19 @@
  My Skills : I have a knowledge of 
 
  • C language 
+ 
  • C++
+ 
  • Basic web devlopment
  
- Curent status :*this things curently i am studing *
+ Curent status :   
+ 
+ *this things curently i am studing *
+ 
  • java 
+ 
  • sprinboot
+ 
  • DSA in java
 
  😊I believe in study by failure 
