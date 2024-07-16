@@ -5,12 +5,16 @@
  My Qualifications : Currently I am studying in BCA (Bachelor of Computer Applications)
  
  My Skills : I have a knowledge of 
+
  •C language 
+ 
  •C++
  
  Curent status :*this things curently i am studing *
-  •java
+  •java 
+  
   •sprinboot
+  
   •DSA in java
 
  
