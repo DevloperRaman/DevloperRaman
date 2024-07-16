@@ -5,13 +5,8 @@
  My Qualifications : Currently I am studying in BCA (Bachelor of Computer Applications)
  
  My Skills : I have a knowledge of 
- •Html 
- •Css
- •javascript 
  •C language 
  •C++
- •Bootstrep
-  •Tailwend css
  Curent status :*this things curently i am studing *
   •java
   •sprinboot
