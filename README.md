@@ -7,6 +7,7 @@
  My Skills : I have a knowledge of 
  •C language 
  •C++
+ 
  Curent status :*this things curently i am studing *
   •java
   •sprinboot
