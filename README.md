@@ -1,6 +1,6 @@
  --Hi my name is Raman --
  
- My Dream : I want to become a  developer 
+ My Dream : I want to become a Java developer 
  
  My Qualifications : Currently I am studying in BCA (Bachelor of Computer Applications)
  
